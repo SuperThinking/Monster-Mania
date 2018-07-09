@@ -1,0 +1,24 @@
+#bdy{
+    margin: 0;
+    background-color: #2345a3;
+}
+
+#base{
+    height: 600;
+    width: 1350;
+    background-color: #a32323;
+}
+
+#main{
+    position: relative;
+}
+
+#food
+{
+    position: relative;
+}
+
+button{
+    height: 50;
+    width: 75;
+}
