@@ -27,9 +27,9 @@ Added a Main Menu with 2 options:
 2) Vs BOT (Beta) (A bot also moves in the game that also collects Burgers and steal your points (Scoring System is still to be changed in this mode)).
 <br />
 <br />
-![alt text](https://github.com/SuperThinking/Monster-Mania/blob/master/MainMenu.png)
+<img src="https://github.com/SuperThinking/Monster-Mania/blob/master/MainMenu.png" />
 <br />
-![alt text](https://github.com/SuperThinking/Monster-Mania/blob/master/SinglePlayer.png)
+<img src="https://github.com/SuperThinking/Monster-Mania/blob/master/SinglePlayer.png" />
 <br />
-![alt text](https://github.com/SuperThinking/Monster-Mania/blob/master/Vs%20Bot.png)
+<img src="https://github.com/SuperThinking/Monster-Mania/blob/master/Vs%20Bot.png" />
 
