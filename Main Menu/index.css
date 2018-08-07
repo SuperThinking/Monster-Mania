@@ -1,0 +1,38 @@
+#title
+{
+    font-size: 100px;
+    font-family: 'MedievalSharp', cursive;
+    color: rgb(68, 17, 8);
+}
+
+#opt
+{
+    position: fixed;
+    width: 100%;
+}
+
+#op
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px; 
+    background-color: rgb(87, 34, 34);
+    border-radius: 10px;
+    font-size: 60px;
+    color: aliceblue;
+    position: relative;
+}
+
+#op:hover
+{
+    font-size: 65px;
+    cursor: pointer;
+}
+
+#body
+{
+    margin: 0;
+    background-image: url("Back1.png");
+    background-size: cover;
+}

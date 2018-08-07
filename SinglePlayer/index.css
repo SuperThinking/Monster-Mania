@@ -1,0 +1,36 @@
+#bdy{
+    margin: 0;
+    background-color: #617cc7;
+}
+
+#base{
+    height: 600;
+    width: 1350;
+    /* background-color: #d14747; */
+    background-color: rgb(12, 14, 12);
+    box-shadow: 10px 5px rgb(37, 30, 30);
+    z-index: -1;
+}
+
+#main{
+    position: relative;
+}
+
+#food
+{
+    position: relative;
+}
+
+button{
+    height: 50;
+    width: 75;
+}
+
+#gOText{
+    font-size: 100px;
+}
+
+#monster, #movingMonster
+{
+    z-index: +2;
+}
